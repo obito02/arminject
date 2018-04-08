@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2015, Simone Margaritelli <evilsocket at gmail dot com>
+ * copyright (c) 2015, Simone Margaritelli <evilsocket at gmail dot com>
  * All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
